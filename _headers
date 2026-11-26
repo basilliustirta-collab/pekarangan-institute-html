@@ -1,0 +1,5 @@
+# Netlify / Cloudflare Pages: header keamanan (pengganti header yang dulu dikirim server)
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: same-origin
